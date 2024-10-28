@@ -2,7 +2,7 @@ import psutil
 import requests
 import time
 
-slack_webhook_url = "https://hooks.slack.com/services/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"
+slack_webhook_url = "https://hooks.slack.com/services/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"
 threshold = 80
 
 def send_slack_message(text):
