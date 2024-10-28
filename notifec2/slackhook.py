@@ -3,7 +3,7 @@ import subprocess
 import requests
 import json
 
-SLACK_WEBHOOK_URL = 'https://hooks.slack.com/services/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'  
+SLACK_WEBHOOK_URL = 'https://hooks.slack.com/services/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'  
 NAMAEC2 = 'SERVER-DESTINATIONCALCIO-PROD'
 
 def send_slack_message(message):
